@@ -1,6 +1,6 @@
 # The Zynthian case and my lust for digital instruments.
 
-This repository will track the progress of a new instrument I plan on creating. Initially, it is just going to be a Raspberry Pi inside of an AmazonBasics office accessory tray. It'll run Zynthian at first,  but the Pi will make it rather easy to develop for. It is to feature a 4.5 inch screen, and at least four push button encoders. Originally, I began mocking this up in AutoCAD to be solely a Zynthian box.
+This repository will track the progress of a new instrument I've been working on. Initially, it is just going to be a Raspberry Pi inside of an AmazonBasics office accessory tray. It'll run Zynthian at first,  but the Pi will make it rather easy to develop for. It is to feature a 4.5 inch screen, and at least four push button encoders. Originally, I began mocking this up in AutoCAD to be solely a Zynthian box.
 
 ![image-20220324230209441](images/image-20220324230209441.png)
 
